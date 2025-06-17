@@ -1,0 +1,14 @@
+#box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 5px;
+    background-color: dodgerblue;
+}
+.content{
+    background-color: green;
+}
+.newclass{
+    color: red;
+}
